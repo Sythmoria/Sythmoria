@@ -70,9 +70,9 @@
 ## <div align="center"> Github Stats  </div>
     
 <footer>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=MarijaScekicZivojinovic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=381823&icon_color=f16a55&text_color=6f6e6e&bg_color=f2998e,f7d7c2,fff8dd" alt="MarijaScekicZivojinovic's Github Stats" width="51%">
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=MarijaScekicZivojinovic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=381823&icon_color=f16a55&text_color=6f6e6e&bg_color=f2998e,f7d7c2,fff8dd" alt="MarijaScekicZivojinovic's Github Stats" width="50%">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaScekicZivojinovic&layout=compact&line_height=20&title_color=381823&icon_color=381823&text_color=6f6e6e&bg_color=f2998e,f7d7c2,fff8dd" width="43%"/></div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaScekicZivojinovic&layout=compact&line_height=20&title_color=381823&icon_color=381823&text_color=6f6e6e&bg_color=f2998e,f7d7c2,fff8dd" width="42%"/></div>
 </footer>
 <br/>
 <br/>  
