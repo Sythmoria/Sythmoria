@@ -21,7 +21,7 @@
 - 👩‍🏫 I’m currently working as an online ESL tutor and an amateur journalist. I'm looking 🔍 for a job as a front-end developer.  
   
 
--  💻I’m currently studying front-end at IT Bootcamp.  
+-  💻I’ve finished studying front-end at IT Bootcamp in February 2022 and I've continued studying on different platforms ever since.  
   
 
 <br/>  
