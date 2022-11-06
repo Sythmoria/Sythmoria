@@ -18,10 +18,10 @@
 ### <div align="center">✨💖 Hi! I'm Marija! (English: Maria)  💖✨</div>  
   
 
-- 👩‍🏫 I’m currently working as a software engineer. I used to work as an English tutor and an amateur journalist, and prior to that I was a bartender at a local restaurant. 
+- 💻 I’m currently working as a software engineer. I used to work as an English tutor and an amateur journalist, and prior to that I was a bartender at a local restaurant. 
   
 
--  💻I’ve attended a coding bootcamp (IT Bootcamp) in February of 2022, and that was a start of the ongoing and self-motivated pursuit of knowledge.
+- 💻 I’ve attended a coding bootcamp (IT Bootcamp) in February of 2022, and that was a start of the ongoing and self-motivated pursuit of knowledge.
   
 
 <br/>  
