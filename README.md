@@ -1,7 +1,7 @@
-<!-- <header>
-<p align="center">
+ <!--<header>
+<p align="center"> -->
 <!--  <img src="https://github.com/MarijaScekicZivojinovic/Personal-Pictures/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png"/> -->
-<img src="https://github.com/MarijaScekicZivojinovic/MarijaScekicZivojinovic/blob/main/Banner.png"/>
+<!--<img src="https://github.com/MarijaScekicZivojinovic/MarijaScekicZivojinovic/blob/main/Banner.png"/>
 </p>
  </header> -->
 
