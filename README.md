@@ -15,13 +15,13 @@
  <img src="https://img.shields.io/badge/Languages-English%20%26%20Serbian-brightgreen" align="center"/>
 </div>  
 
-### <div align="center">✨💖  I'm Marija (English: Maria), an aspiring front-end developer  💖✨</div>  
+### <div align="center">✨💖 Hi! I'm Marija! (English: Maria)  💖✨</div>  
   
 
-- 👩‍🏫 I’m currently working as an online ESL tutor and an amateur journalist. I'm looking 🔍 for a job as a front-end developer.  
+- 👩‍🏫 I’m currently working as a software engineer. I used to work as an English tutor and an amateur journalist, and prior to that I was a bartender at a local restaurant. 
   
 
--  💻I’ve finished studying front-end at IT Bootcamp in February 2022 and I've continued studying on different platforms ever since.  
+-  💻I’ve attended a coding bootcamp (IT Bootcamp) in February of 2022, and that was a start of the ongoing and self-motivated pursuit of knowledge.
   
 
 <br/>  
