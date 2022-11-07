@@ -1,7 +1,7 @@
  <!--<header>
 <p align="center"> -->
-<!--  <img src="https://github.com/MarijaScekicZivojinovic/Personal-Pictures/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png"/> -->
-<!--<img src="https://github.com/MarijaScekicZivojinovic/MarijaScekicZivojinovic/blob/main/Banner.png"/>
+<!--  <img src="https://github.com/Sythmoria/Personal-Pictures/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png"/> -->
+<!--<img src="https://github.com/Sythmoria/Sythmoria/blob/main/Banner.png"/>
 </p>
  </header> -->
 
@@ -10,7 +10,7 @@
 </div>   -->
  
  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MarijaScekicZivojinovic&&color=brightgreen" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Sythmoria&&color=brightgreen" align="center" />
 <img src="https://img.shields.io/badge/Lives%20in-Serbia-success" align="center"/>
  <img src="https://img.shields.io/badge/Languages-English%20%26%20Serbian-brightgreen" align="center"/>
 </div>  
@@ -70,18 +70,18 @@
 ## <div align="center"> Github Stats  </div>
     
 <footer>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=MarijaScekicZivojinovic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=381823&icon_color=f16a55&text_color=6f6e6e&bg_color=f2998e,f7d7c2,fff8dd" alt="MarijaScekicZivojinovic's Github Stats" width="50%">
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sythmoria&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=381823&icon_color=f16a55&text_color=6f6e6e&bg_color=f2998e,f7d7c2,fff8dd" alt="Sythmoria's Github Stats" width="50%">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaScekicZivojinovic&layout=compact&line_height=20&title_color=381823&icon_color=381823&text_color=6f6e6e&bg_color=f2998e,f7d7c2,fff8dd" width="42%"/></div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sythmoria&layout=compact&line_height=20&title_color=381823&icon_color=381823&text_color=6f6e6e&bg_color=f2998e,f7d7c2,fff8dd" width="42%"/></div>
 </footer>
 <br/>
 <br/>  
 
 
 <!-- <footer>  
-<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=MarijaScekicZivojinovic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MarijaScekicZivojinovic's Github Stats" width="51%">
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sythmoria&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sythmoria's Github Stats" width="51%">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaScekicZivojinovic&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="43%"/></div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sythmoria&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="43%"/></div>
 </footer>
  -->
 
@@ -89,14 +89,14 @@
 <!-- 
 ## Github Stats 📉 -->
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=MarijaScekicZivojinovic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MarijaScekicZivojinovic's Github Stats">
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sythmoria&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sythmoria's Github Stats">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaScekicZivojinovic&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sythmoria&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>  
 
 </br> --> 
 
 <!--
-**MarijaScekicZivojinovic/MarijaScekicZivojinovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sythmoria/Sythmoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
